@@ -1,0 +1,7 @@
+AIRLINE,FLIGHT_NUMBER,TAIL_NUMBER,ORIGIN_AIRPORT,DESTINATION_AIRPORT,SCHEDULED_DEPARTURE,SCHEDULED_TIME,DISTANCE,SCHEDULED_ARRIVAL
+
+US     ,840          ,N171US     ,SFO           ,LAS                ,20                 ,286           ,2296    ,220
+
+US     ,841          ,N172US     ,SFO           ,LAS                ,620                ,286           ,2296    ,820
+
+DL     ,1173         ,N826DN     ,LAS           ,SFO                ,330                ,221           ,1747    ,530

@@ -1,0 +1,32 @@
+AIRLINE,FLIGHT_NUMBER,TAIL_NUMBER,ORIGIN_AIRPORT,DESTINATION_AIRPORT,SCHEDULED_DEPARTURE,SCHEDULED_TIME,DISTANCE,SCHEDULED_ARRIVAL
+
+US     ,1            ,N171US     ,A             ,E                  ,1100               ,286           ,2296    ,1300
+
+US     ,2            ,N171US     ,A             ,C                  ,1600               ,286           ,2296    ,1800
+
+US     ,3            ,N171US     ,A             ,C                  ,2200               ,286           ,2296    ,2400
+
+US     ,4            ,N171US     ,B             ,A                  ,800                ,286           ,2296    ,1000
+
+US     ,5            ,N171US     ,B             ,E                  ,400                ,286           ,2296    ,600
+
+US     ,6            ,N171US     ,B             ,D                  ,200                ,286           ,2296    ,400
+
+US     ,7            ,N171US     ,D             ,C                  ,700                ,286           ,2296    ,900
+
+US     ,8            ,N171US     ,D             ,E                  ,1200               ,286           ,2296    ,1400
+
+US     ,9            ,N171US     ,E             ,A                  ,1400               ,286           ,2296    ,1600
+
+US     ,10           ,N171US     ,E             ,C                  ,1000               ,286           ,2296    ,1200
+
+US     ,11           ,N171US     ,E             ,C                  ,1400               ,286           ,2296    ,1600
+
+US     ,12           ,N171US     ,E             ,D                  ,1400               ,286           ,2296    ,1600
+
+US     ,13           ,N171US     ,C             ,F                  ,1000               ,286           ,2296    ,1200
+
+
+
+
+
