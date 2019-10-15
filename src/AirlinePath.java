@@ -11,7 +11,7 @@ public class AirlinePath {
     public static void main(String[] args) throws FileNotFoundException {
         AirlinePath aviation = new AirlinePath();
         aviation.init("/Users/sanyamgupta/IdeaProjects/AirlineSchedule/src/Flights.csv");
-        aviation.getFlightsBetween("X12", "X22");
+        aviation.getFlightsBetween("SFO", "JFK");
     }
 
     public void init(String file) throws FileNotFoundException {
@@ -70,7 +70,7 @@ public class AirlinePath {
                     //add flight to the visited path and recursively call getPaths
                     boolean successfultAddition = visited.addFlightToPath(f);
                     if (successfultAddition) {
-                        getPaths(f.dest_airport, dest, f.getArrival(), visited);
+                        getPaths(f.getDest_airport(), dest, f.getArrival(), visited);
                         visited.remove();
                     }
                 }
